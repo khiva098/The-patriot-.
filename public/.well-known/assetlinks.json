@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.thepatriot.app",
+      "sha256_cert_fingerprints": [
+        "A8:F9:4E:21:B0:73:C6:8E:14:D3:39:F4:08:89:C2:5E:83:FB:90:F3:C1:78:2E:44:D7:15:A4:40:1A:89:B7:02"
+      ]
+    }
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_navy">#0A192F</color>
+    <color name="primary_navy_dark">#050E1B</color>
+    <color name="primary_navy_light">#132743</color>
+    <color name="gold_primary">#C5A880</color>
+    <color name="gold_accent">#F59E0B</color>
+    <color name="gold_light">#FCD34D</color>
+    <color name="gold_dark">#92400E</color>
+    <color name="stone_bg">#F5F5F4</color>
+    <color name="slate_dark_bg">#050E1B</color>
+    <color name="text_primary_light">#0F172A</color>
+    <color name="text_primary_dark">#F8FAFC</color>
+</resources>
